@@ -1,5 +1,5 @@
 {
-    "dependencies": {
+  "dependencies": {
     "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.6.3.tgz",
     "com.unity.collab-proxy": "1.15.15",
     "com.unity.feature.ar": "1.0.0",
@@ -12,6 +12,7 @@
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.6.4",
     "com.unity.ugui": "1.0.0",
+    "com.unity.visualeffectgraph": "12.1.6",
     "com.unity.visualscripting": "1.7.6",
     "com.unity.xr.management": "4.2.0",
     "com.unity.modules.ai": "1.0.0",
