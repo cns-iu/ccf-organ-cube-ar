@@ -9,7 +9,7 @@
       }
     },
     "com.unity.collab-proxy": {
-      "version": "1.15.15",
+      "version": "1.15.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -41,7 +41,7 @@
         "com.unity.xr.arcore": "4.2.2",
         "com.unity.xr.magicleap": "6.4.1",
         "com.unity.xr.arkit-face-tracking": "4.2.2",
-        "com.unity.xr.openxr": "1.3.1"
+        "com.unity.xr.openxr": "1.4.1"
       }
     },
     "com.unity.feature.development": {
@@ -93,13 +93,20 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.learn.iet-framework": {
-      "version": "2.1.1",
+      "version": "2.2.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.settings-manager": "1.0.3"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.0.2",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.performance.profile-analyzer": {
@@ -127,11 +134,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
-      "version": "1.0.1",
+      "version": "1.3.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0"
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.modules.androidjni": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -332,13 +341,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr": {
-      "version": "1.3.1",
+      "version": "1.4.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.xr.management": "4.0.1",
         "com.unity.xr.legacyinputhelpers": "2.1.2",
-        "com.unity.inputsystem": "1.0.2"
+        "com.unity.inputsystem": "1.3.0"
       },
       "url": "https://packages.unity.com"
     },

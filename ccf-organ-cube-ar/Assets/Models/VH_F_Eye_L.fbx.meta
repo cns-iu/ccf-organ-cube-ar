@@ -3,7 +3,97 @@ guid: f73dff2293b368148836d2bb1c781c6f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone_Mat
+    second: {fileID: 2100000, guid: cd5d6971a6f0e9142b4aca998b4565a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea_Mat
+    second: {fileID: 2100000, guid: fdc2590003b98f84c8e02ce9b60bc76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 48addc4e3413379408ae46a1a00b15a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyeball_mat
+    second: {fileID: 2100000, guid: 032c8299ebc804047a3f0c2a1071ae5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muscle_mat
+    second: {fileID: 2100000, guid: c8507d72102085649bf85399dced46cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ora_serrata_mat
+    second: {fileID: 2100000, guid: 552dc57d8ad98624d847d4df5ed668a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin_mat
+    second: {fileID: 2100000, guid: 0bc46138a4199004bbcb83db4880c385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: choroid_mat
+    second: {fileID: 2100000, guid: d093d59d369cd8d418a58f54a8278202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fovea_mat
+    second: {fileID: 2100000, guid: 5df2834932a7de64ca4e4f529ea61828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: humours_mat
+    second: {fileID: 2100000, guid: 90a7d51954fa6154aa4e2cd372dd0fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iris_mat
+    second: {fileID: 2100000, guid: 7c9d0e1b4bd04af4fb70d8f740eba5fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens_mat
+    second: {fileID: 2100000, guid: 41deff76036ec2f429b9af3df2af7084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limbus_mat
+    second: {fileID: 2100000, guid: c4984943e97351d44a51609f1d3bac92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lung_mat
+    second: {fileID: 2100000, guid: c5ac98f2a85413941b972e593ec26120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: macula_mat
+    second: {fileID: 2100000, guid: 728b7ae84199a73449fefbb3b2bb6d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meniscus_mat
+    second: {fileID: 2100000, guid: 7ba1496f5ab69214eb27a1b48cb25a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pupil_mat
+    second: {fileID: 2100000, guid: 75dc9821399b9664e9b4a22db2705a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: retina_mat1
+    second: {fileID: 2100000, guid: abe56dd2e966cf24ab22ce73a1f467f4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
